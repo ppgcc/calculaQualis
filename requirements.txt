@@ -1,0 +1,10 @@
+APScheduler==3.0.0
+pandas
+requests
+proxyscrape
+datetime
+urllib3
+bs4
+progress
+google-api-python-client
+google-auth-oauthlib
