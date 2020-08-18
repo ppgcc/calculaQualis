@@ -14,6 +14,6 @@
 
 - Este script é utilizado para apresentar a tabela do Qualis CC em relação aos Periódicos, que consta no site `Discentes PPGCC/PUCRS` e que pode ser visualizada por: [Qualis CC](https://ppgcc.github.io/discentesPPGCC/pt-BR/qualis/)
 
-- **OBS:** _Informações relacionadas às credenciais foram omitidas neste repositório, por questões de segurança relacionadas à conta do Google. No entanto, para fazer uso deste script, basta apenas gerar suas próprias credenciais._
+**OBS:** _Informações relacionadas às credenciais foram omitidas neste repositório, por questões de segurança relacionadas à conta do Google. No entanto, para fazer uso deste script, basta apenas gerar suas próprias credenciais._
 
 ### *Implementado por [Olimar Teixeira Borges](https://github.com/olimarborges).
