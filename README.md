@@ -1,13 +1,13 @@
 # Calcula Qualis CC (Conferências e Periódicos)
 
-## Script para as Conferências (scriptPythonConfs-cp.py)
+## Script para as Conferências (def scriptConfs())
 - Script python utilizado para automatização (busca dos h5 no Google Scholar, via `web scrapping`) e que calcula o valor do Novo Qualis das Conferências conforme regras do Documento de Área (Ciência da Computação) da CAPES.
 
 - O Script foi configurado para executar todos os dias (de segunda a domingo) à meia-noite (horário de Brasília (3am EUA)) e está hospedado no Heroku.
 
 - Este script é utilizado para apresentar a tabela do Qualis CC em relação às Conferências, que consta no site `Discentes PPGCC/PUCRS` e que pode ser visualizada por: [Qualis CC](https://ppgcc.github.io/discentesPPGCC/pt-BR/qualis/)
 
-## Script para os Periódicos (scriptPythonPeri-cp.py)
+## Script para os Periódicos (def scriptPeri())
 - Script python utilizado para automatização (busca dos percentis na Scopus, via API da própria Scopus) e que calcula o valor do Novo Qualis para os Periódicos conforme regras do Documento de Área (Ciência da Computação) da CAPES.
 
 - O Script foi configurado para executar todos os dias (de segunda a domingo) à meia-noite (horário de Brasília (3am EUA)) e está hospedado no Heroku.
