@@ -1,1 +1,0 @@
-clock: python scriptPythonConfs.py
